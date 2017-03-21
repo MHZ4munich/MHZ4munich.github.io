@@ -1,0 +1,18 @@
+- title: "About"
+  href: "/"
+
+- title: "Membership and pricing"
+  href: "/membership/"
+
+- title: "History and Theory"
+  href: "/history/"
+
+- title: "Training time and places"
+  href: "/training/"
+
+- title: "Contact"
+  href: "/contact/"
+  subcategories:
+    - subtitle: "European Meihuazhuang Association"
+      subhref: "/contact/mhz/"
+
