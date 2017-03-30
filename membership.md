@@ -4,22 +4,18 @@ title: Membership and pricing
 permalink: /membership/
 ---
 
-We are a local group which belongs to the European Meihuazhuang Association and offer trainings to members of the association. The annual membership fee for European Meihuazhuang Association is 59 Euros for Adults and 29 Euros for kids and adolescent (For more information, please consult the European Meihuazhuang Association, [see
-here](http://www.meihuazhuang.org) ) 
+We are a local group of [European Meihuazhuang Association](http://www.meihuazhuang.org) , find us and other groups in Europe in the map [here!](http://meihuazhuang.org/?groupes) The annual membership fee for European Meihuazhuang Association is 59 Euros for Adults and 29 Euros for kids and adolescent. The fiscal year for the European Meihuazhuang Association starts on October 1th every year. For more information, please consult [info@meihuazhuang.org](mailto:info@meihuazhuang.org) 
 
 Besides, we have an optional local fee of 15 Euros per year for adults (which is waived at the current stage for existing members and possibly for new members as well). 
 
-
-The fiscal year for the European Meihuazhuang Association starts on October 1th each natural year.
-
-You are invited to contact us for probe training.
+You are invited to contact us for probe training by [meihuazhuang.munich@gmail.com](meihuazhuang.munich@gmail.com) 
 
 
 ## Registration to European Meihuazhuang Association
 
-To register yourself to the European Meihuazhuang Association, please send the following information to [info@meihuazhuang.org](mailto:info@meihuazhuang.org) with an
+To register yourself to the European Meihuazhuang Association, one possible way is to send the following information to [info@meihuazhuang.org](mailto:info@meihuazhuang.org) with an
 appropriate title (e.g. Registration for membership to Munich Local group of Meihuazhuang ) and transfer the membership fee (59/29 Euros) to the bank account indicated in the
-link below. 
+link below. There are other ways stated in French in the offical website of [European Meihuazhuang Association](http://www.meihuazhuang.org).
 
 
 Registration City: Munich
