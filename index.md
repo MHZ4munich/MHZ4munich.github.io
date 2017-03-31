@@ -14,6 +14,7 @@ The meaning of Meihua is plum blossom which bloom in the coldest winter time in 
 for persistence and self-reliance in face of difficulty, while zhuang means stump, which is a basic
 training method also found in Tai-chi, Wing-chun, etc.
 
+**To get an idea how Meihuazhuang look like, see our [gallery](/gallery)**
 ## About us in Munich
 We are a local group in Munich that is part of the European Meihuazhuang Association.
 [see here](http://www.meihuazhuang.org)
