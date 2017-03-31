@@ -3,7 +3,7 @@ layout: page
 title: Training time and place
 permalink: /training/
 ---
-The training is on a weekly basis and most of the time we alternate between West park and English Garden in Munich for training. Note that currently we train outdoor so our training is affected by the weather, so look at the weather widget below before you go.  
+The training is on a weekly basis and most of the time we alternate between West park and English Garden in Munich for training. Note that currently we train outdoor so our training is affected by the weather, so look at **the weather widget below** before you go. **In terms of bad weather, the training is cancelled automatically without notification.**  
 
 Please click on the events in the calendar below to see the address where we meet for each training and other details like how to find us. 
 
