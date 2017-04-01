@@ -49,7 +49,9 @@ Meihuazhuang hat Stämmen aus der traditionellen chinesischen Kultur und der Phi
 连接动作是使五个姿势遵循一定的顺序进行转化,即由大势到顺势,顺势到拗势,拗
 势到小势,小势到到败势,从而符合阴阳转化和五行相生相克的原理。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WHmCOH6V0fY" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LCe_xyBAi7s" frameborder="0" allowfullscreen></iframe>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
