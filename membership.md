@@ -6,9 +6,9 @@ permalink: /membership/
 
 We are a local group of [European Meihuazhuang Association](http://www.meihuazhuang.org) , find us and other groups in Europe in the map [here!](http://meihuazhuang.org/?groupes) The annual membership fee for European Meihuazhuang Association is 59 Euros for Adults and 29 Euros for kids and adolescent. The fiscal year for the European Meihuazhuang Association starts on October 1th every year. For more information, please consult [info@meihuazhuang.org](mailto:info@meihuazhuang.org) 
 
-Besides, we have an optional local fee of 15 Euros per year for adults (which is waived at the current stage for existing members and possibly for new members as well). 
+Besides, we have an optional local fee of 15 Euros per year for adults (which is waived at the current stage for existing members and maybe for new members as well). 
 
-You are invited to contact us for probe training by [meihuazhuang.munich@gmail.com](meihuazhuang.munich@gmail.com) 
+You are invited to contact us for probe training by [meihuazhuang.munich@gmail.com](meihuazhuang.munich@gmail.com) and in certain cases you get the 5 Euros probe training fee waived. 
 
 
 ## Registration to European Meihuazhuang Association
@@ -50,3 +50,14 @@ Self Introduction and reasons you want to join:
 The membership fee (59/29 Euros) could be transferred to the following account, [see here](https://drive.google.com/file/d/0B1vtUB3pfkiyR0NjejFUcnR3ME0/view?usp=sharing), please indicate your unique personal information in the transfer (name and email for instance)
 
 <embed src="https://drive.google.com/file/d/0B1vtUB3pfkiyR0NjejFUcnR3ME0/view?usp=sharing"  width="500" height="375" type='application/pdf'>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-96544484-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

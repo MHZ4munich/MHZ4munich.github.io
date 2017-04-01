@@ -3,7 +3,7 @@ layout: page
 title: Training time and place
 permalink: /training/
 ---
-The training is on a weekly basis and most of the time we alternate between West park and English Garden in Munich for training. Note that currently we train outdoor so our training is affected by the weather, so look at **the weather widget below** before you go. **In terms of bad weather, the training is cancelled automatically without notification.**  
+The training is on a weekly basis and most of the time we alternate between West park and English Garden in Munich for training. Note that currently we train outdoor so our training is affected by the weather, so look at **the weather widget below** before you go. **In terms of bad weather, the training is cancelled automatically without notification, this is according to the hourly weather forecast widget below.**  
 
 Please click on the events in the calendar below to see the address where we meet for each training and other details like how to find us. 
 
@@ -28,3 +28,13 @@ By accessing and/or using this code snippet, you agree to AccuWeather’s terms 
 By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at https://www.accuweather.com/en/free-weather-widgets/terms and AccuWeather’s Privacy Statement (in English) which can be found at https://www.accuweather.com/en/privacy.
 -->
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-96544484-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
