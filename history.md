@@ -4,7 +4,7 @@ title: History
 permalink: /history/
 ---
 
-Meihuazhuang ist eine traditionelle chinesische Kampfkunst, mit einem 400-jährigen genant Geschichte (Die insgesamt Geschichte ist länger) Das Training konzentriert an der Verbesserung von dem inneren Status. (Qi, Shen und Jing, der innere Stärkens) und ist aus Jiazi (Dynamisch Meditation mit fixierte Körperhaltung), ChenQuan (dynamische kämpfen) und hilfreich Training. Das Ziel des Trainings ist um die physische und geistliche Gesundheit zu verbessern, um Selbstverteidigung Techniken aufzubauen.
+Meihuazhuang ist eine traditionelle chinesische Kampfkunst, mit einem 400-jährigen genant Geschichte (Die insgesamt Geschichte ist länger, alter als Taichi und Wingchun) Das Training konzentriert an der Verbesserung von dem inneren Status. (Qi, Shen und Jing, der innere Stärkens) und ist aus Jiazi (Dynamisch Meditation mit fixierte Körperhaltung), ChenQuan (dynamische kämpfen) und hilfreich Training. Das Ziel des Trainings ist um die physische und geistliche Gesundheit zu verbessern, um Selbstverteidigung Techniken aufzubauen.
 Meihuazhuang hat Stämmen aus der traditionellen chinesischen Kultur und der Philosophie des Daos. Die einzigartige Sportart ist europaweit bekannt: diese ist nicht nur um sportlich zu werden, sondern auch eine Verstärkung der Beziehung zwischen den Ländern und eine kulturreichen Gelegenheit anzubieten. 
 
 
