@@ -4,11 +4,9 @@ title: Membership and pricing
 permalink: /membership/
 ---
 
-We are a local group of [European Meihuazhuang Association](http://www.meihuazhuang.org) , find us and other groups in Europe in the map [here!](http://meihuazhuang.org/?groupes) The annual membership fee for European Meihuazhuang Association is 59 Euros for Adults and 29 Euros for kids and adolescent. The fiscal year for the European Meihuazhuang Association starts on October 1th every year. For more information, please consult [info@meihuazhuang.org](mailto:info@meihuazhuang.org) 
+We are a local group of [European Meihuazhuang Association](http://www.meihuazhuang.org) , find us and other groups in Europe [in the map here!](http://meihuazhuang.org/?groupes) The annual membership fee for European Meihuazhuang Association is 59 Euros for Adults and 29 Euros for kids and adolescent. The fiscal year for the European Meihuazhuang Association starts on October 1th every year. For more information, please consult [info@meihuazhuang.org](mailto:info@meihuazhuang.org). Members in Munich contribute 5 to 15 Euros per year to support our local activity according to their status.
 
-Besides, we have an optional local fee of 15 Euros per year for adults (which is waived at the current stage for existing members and maybe for new members as well). 
-
-You are invited to contact us for probe training by [meihuazhuang.munich@gmail.com](meihuazhuang.munich@gmail.com) and in certain cases you get the 5 Euros probe training fee waived. 
+You are invited to contact us for probe training by [meihuazhuang.munich@gmail.com](meihuazhuang.munich@gmail.com), non-students also donate 5 Euros for the probe training.  
 
 
 ## Registration to European Meihuazhuang Association

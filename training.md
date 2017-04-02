@@ -3,15 +3,16 @@ layout: page
 title: Training time and place
 permalink: /training/
 ---
-The training is on a weekly basis and most of the time we alternate between West park and English Garden in Munich for training. Note that currently we train outdoor so our training is affected by the weather, so look at **the weather widget below** before you go. **In terms of bad weather, the training is cancelled automatically without notification, this is according to the hourly weather forecast widget below.**  
+The training is on **every weekend** and most of the time we alternate between **West park** and **English Garden** in Munich. 
+Please click on the events in the **training calendar below** to see the address where we meet for each training and other details like how to find us, and this is **updated weekly**. 
 
-Please click on the events in the calendar below to see the address where we meet for each training and other details like how to find us. 
-
-The meeting and training place for the coming week will always be fixed before 8:00 pm on the current Saturday but it is always a good habit to look at the calendar on the day before you go to confirm the place or contact us for probe training.
+<iframe src="https://calendar.google.com/calendar/embed?src=7hfm87dla7lt6cvvgoeblsipq8%40group.calendar.google.com&ctz=Europe/Berlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 **The training always start on time so it is important for participants to be punctual !**
 
-<iframe src="https://calendar.google.com/calendar/embed?src=7hfm87dla7lt6cvvgoeblsipq8%40group.calendar.google.com&ctz=Europe/Berlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+The meeting and training place for the coming week will always be fixed before 8:00 pm on the current Saturday but it is always a good habit to look at the calendar on the day before you go to confirm the place or contact us for probe training.
+
+**In terms of bad weather like raining, the training will be cancelled automatically without notification, this is according to the hourly weather forecast widget at the bottom.**  
 
 
 

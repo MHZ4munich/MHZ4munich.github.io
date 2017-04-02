@@ -15,16 +15,14 @@ for persistence and self-reliance in face of difficulty, while zhuang means stum
 training method also found in Tai-chi, Wing-chun, etc.
 
 **To get an idea how Meihuazhuang look like, see our [gallery](/gallery)**
+
 ## About us in Munich
-We are a local group in Munich that is part of the European Meihuazhuang Association.
-[see here](http://www.meihuazhuang.org)
+We are a local group of the [European Meihuazhuang Association](http://www.meihuazhuang.org)
 
-## Current Training Time in Munich
-> Saturday 16:00 - 17:30 (Leopold park, English park, West park), please [see here](/training) for our training calendar which is updated weekly. 
+## Training Time and place in Munich [Click here to see ](/training)
 
-## Contact
+## Contact us
 > meihuazhuang.munich@gmail.com
-
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
