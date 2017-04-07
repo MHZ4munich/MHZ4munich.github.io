@@ -16,6 +16,9 @@ permalink: /gallery/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CcUHC-PoTA4" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GVJCoUVkE_U" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k-IIkIE8bf8" frameborder="0" allowfullscreen></iframe>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

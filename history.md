@@ -3,10 +3,9 @@ layout: page
 title: History
 permalink: /history/
 ---
+China is the hometown for martial arts and due to historical reasons(the last 100 years) a lot of styles are not well known to the world. For example, a lot of practisers do not know Karate originally means "Chinese Hand", [[1]](http://www.dutchesskarate.com/whatsinname.php)[[2]](http://www.takahashidojo.com/pages/22)[[3]](http://www.gojukai.com/originof.htm) instead of empty hand.
 
-Meihuazhuang ist eine traditionelle chinesische Kampfkunst, mit einem 400-jährigen genant Geschichte (Die insgesamt Geschichte ist länger, alter als Taichi und Wingchun) Das Training konzentriert an der Verbesserung von dem inneren Status. (Qi, Shen und Jing, der innere Stärkens) und ist aus Jiazi (Dynamisch Meditation mit fixierte Körperhaltung), ChenQuan (dynamische kämpfen) und hilfreich Training. Das Ziel des Trainings ist um die physische und geistliche Gesundheit zu verbessern, um Selbstverteidigung Techniken aufzubauen.
-Meihuazhuang hat Stämmen aus der traditionellen chinesischen Kultur und der Philosophie des Daos. Die einzigartige Sportart ist europaweit bekannt: diese ist nicht nur um sportlich zu werden, sondern auch eine Verstärkung der Beziehung zwischen den Ländern und eine kulturreichen Gelegenheit anzubieten. 
-
+Meihuazhuang has been accredited as a cultural relics for China since 2007 and below is some introduction in Chinese.
 
 
 欧洲梅花桩协会于1999年4月10日在巴黎成立,它肩负梅花桩在欧洲传播的重任。
