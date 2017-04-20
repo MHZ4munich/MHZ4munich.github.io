@@ -24,7 +24,7 @@ We vary training places because we want to compensate for the fact that members 
 By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at https://www.accuweather.com/en/free-weather-widgets/terms and AccuWeather’s Privacy Statement (in English) which can be found at https://www.accuweather.com/en/privacy.
 -->
 </a>
-<div id="awtd1490967878161" class="aw-widget-36hour"  data-locationkey="178086" data-unit="c" data-language="en-us" data-useip="false" data-uid="awtd1490967878161" data-editlocation="false" data-lifestyle="lawn-garden"></div><script type="text/javascript" src="https://oap.accuweather.com/launch.js"></script>
+<div id="awtd1490967878161" class="aw-widget-36hour"  data-locationkey="178086" data-unit="c" data-language="en-us" data-useip="false" data-uid="awtd1490967878161" data-editlocation="false" data-lifestyle="golf"></div><script type="text/javascript" src="https://oap.accuweather.com/launch.js"></script>
 <!--
 By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at https://www.accuweather.com/en/free-weather-widgets/terms and AccuWeather’s Privacy Statement (in English) which can be found at https://www.accuweather.com/en/privacy.
 -->
