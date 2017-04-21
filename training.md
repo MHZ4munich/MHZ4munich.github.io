@@ -3,8 +3,7 @@ layout: page
 title: Training time and place
 permalink: /training/
 ---
-The training is on **every weekend** and most of the time we alternate between **West park** and **English Garden** in Munich. 
-Please click on the events in the **training calendar below** to see the address where we meet for each training and other details like how to find us, and this is **updated weekly**. 
+The training is on **every weekend**.  Please click on the events in the **training calendar below** to see the address where we meet for each training and other details like how to find us, and this is **updated weekly**. 
 
 <iframe src="https://calendar.google.com/calendar/embed?src=7hfm87dla7lt6cvvgoeblsipq8%40group.calendar.google.com&ctz=Europe/Berlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
